@@ -1,6 +1,6 @@
 # 👋 About Me  
 
-Hi, I'm **Beatrice Cretu** — a passionate **Computer Science student at Babeș-Bolyai University** with a growing expertise in software development, algorithms, and data-driven applications.  
+Hi, I'm **Beatrice Cretu** — a passionate **Computer Science student at Babeș-Bolyai University(2nd year)** with a growing expertise in software development, algorithms, and data-driven applications.  
 
 I’m motivated by solving real-world problems through clean, efficient, and well-structured code. My focus is on building scalable solutions, exploring both high-level and low-level programming, and continuously improving through hands-on experience in diverse technologies.  
 

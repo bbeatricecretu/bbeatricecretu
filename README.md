@@ -9,9 +9,9 @@ I enjoy collaborating in technical teams, learning from challenging projects, an
 ---
 
 ## 🧠 Tech Stack  
-**Languages:** Python, C/C++, Assembly (NASM x86), Shell Script, Java, SQL
-**Concepts:** Data Structures, Object-Oriented Programming (OOP), Operating Systems
-**Tools and Technologies:** Git & GitHub, Visual Studio, IntelliJ IDEA, Linux Terminal, HTML, CSS, Oracle SQL Developer, Microsoft Office
+**Languages:** Python, C/C++, Assembly (NASM x86), Shell Script, Java, SQL  
+**Concepts:** Data Structures, Object-Oriented Programming (OOP), Operating Systems  
+**Tools and Technologies:** Git & GitHub, Visual Studio, IntelliJ IDEA, Linux Terminal, HTML, CSS, Oracle SQL Developer, Microsoft Office  
 
 ---
 

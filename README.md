@@ -6,8 +6,26 @@ I’m motivated by solving real-world problems through clean, efficient, and wel
 
 I enjoy collaborating in technical teams, learning from challenging projects, and contributing to meaningful software that combines creativity with precision.  
 
+---
+###  Rapidfire
+ I’m currently working on **AI-driven financial systems** during a tech internship at **Raiffeisen Bank**  
+ I’m currently learning **Figma** for UI/UX design and product prototyping  
 
 ---
+###  Core Concepts
+<p align="left">
+  <strong>Object-Oriented Programming (OOP)</strong><br/>
+  <strong>Data Structures & Algorithms</strong><br/>
+  <strong>Databases & SQL</strong><br/>
+  <strong>Operating Systems</strong><br/>
+  <strong>Computer Networks</strong><br/>
+  <strong>REST APIs</strong><br/>
+  <strong>AI / ML (LLMs)</strong>
+</p>
+
+---
+
+
 
 ###  Languages
 <p align="left">
@@ -22,18 +40,6 @@ I enjoy collaborating in technical teams, learning from challenging projects, an
 ###  Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,linux,postgres&perline=6" />
-</p>
-
----
-### 🧩 Core Concepts
-<p align="left">
-  <strong>Object-Oriented Programming (OOP)</strong><br/>
-  <strong>Data Structures & Algorithms</strong><br/>
-  <strong>Databases & SQL</strong><br/>
-  <strong>Operating Systems</strong><br/>
-  <strong>Computer Networks</strong><br/>
-  <strong>REST APIs</strong><br/>
-  <strong>AI / ML (LLMs)</strong>
 </p>
 
 ---
